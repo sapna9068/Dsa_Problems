@@ -7,6 +7,7 @@ public class HashmapProblem {
         hm.add(4);
         hm.add(5);
         hm.add(3);
+        hm.add(6);
 
         System.out.println(hm.contains(3));
     }
